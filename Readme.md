@@ -20,7 +20,7 @@
 ```
 💡 Em breve estarei disponibilizando minha assistente virtual inteligente para quem quiser me conhecer melhor ^^
 
-Obs.: GitHub em construção. 🚧
+   Obs.: GitHub em construção. 🚧
 ```
 
 <div style="display: inline_block"><br>

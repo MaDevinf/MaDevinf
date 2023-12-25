@@ -19,6 +19,7 @@
 ```
 ```
 💡 Em breve estarei disponibilizando minha assistente virtual inteligente para quem quiser me conhecer melhor ^^
+
 Obs.: GitHub em construção. 🚧
 ```
 
